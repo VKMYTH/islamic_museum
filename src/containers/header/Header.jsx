@@ -1,5 +1,5 @@
 import React from 'react';
-import ai from '../../assets/ai.png';
+import home from '../../assets/home.png';
 import './header.css';
 
 const Header = () => (
@@ -14,7 +14,7 @@ const Header = () => (
     </div>
 
     <div className="gpt3__header-image">
-      <img src={ai} />
+      <img src={home} />
     </div>
   </div>
 );

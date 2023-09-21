@@ -1,46 +1,32 @@
 let timelineElements = [
     {
         id: 1,
-        title: "First Steam-Powered Locomotive",
+        title: "CHS Students Traveled to the DMA",
         description:
-            "The first successful steam-powered locomotive, designed by Richard Trevithick, is demonstrated in Wales, laying the foundation for modern rail transportation.",
-        date: "1804",
+            "After traveling to the Dallas Museum of Art on September 13th, 2023, two students, Vaibhav and Hayden, decided they could curate the museum more effectively to represent all aspects.",
+        date: "September 13th, 2023",
     },
     {
         id: 2,
-        title: "Telephone was Invented",
+        title: "CHS Museum in progress",
         description:
-            "Alexander Graham Bell patents the telephone, revolutionizing long-distance communication and paving the way for the development of modern telecommunication technologies.",
-        date: "1876",
+            "Starting on September 19th, 2023, Hayden and Vaibhav began to create the CHS Museum, a museum that would represent all aspects of history, not just the royal perspective.",
+        date: "September 13, 2023",
     },
     {
         id: 3,
-        title: "First Powered Flight",
+        title: "Islamic Exhibit Launch",
         description:
-            " The Wright brothers make the first powered flight in Kitty Hawk, North Carolina, marking the beginning of modern air transportation.",
-        date: "1903",
+            "The Islamic Exhibit was launched on September 21st, 2023, and was the first exhibit to be launched in the CHS Museum.",
+        date: "September 21st, 2023",
     },
     {
         id: 4,
-        title: "First Mobile Phone Call",
+        title: "Roman/Greek and Indigenous Exhibits Launch",
         description:
-            "The first mobile phone call is made by Motorola engineer Martin Cooper, ushering in the era of mobile communication.",
-        date: "1973",
-    },
-    {
-        id: 5,
-        title: "First Hybrid Car",
-        description:
-            "The first commercially available hybrid electric vehicle, the Toyota Prius, is introduced, setting the stage for the widespread adoption of electric and hybrid vehicles in the coming years.",
-        date: "2004",
-    },
-    {
-        id: 6,
-        title: "Ride-Sharing App 'Uber'",
-        description:
-            "The launch of ride-sharing service Uber marks the beginning of a new era of transportation, as technology-enabled services disrupt traditional taxi and car rental industries, and offer new options for transportation and mobility.",
-        date: "2010",
-    },
+            "The Roman/Greek and Indigenous Exhibits will be launched on September 30th, 2023, and will be the second and third exhibits to be launched in the CHS Museum.",
+        date: "Coming Soon...",
+    }
 ];
 
 export default timelineElements;

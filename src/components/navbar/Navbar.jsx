@@ -10,11 +10,11 @@ const Navbar = () => {
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_container">
           <p><a href="src/components/navbar#home">Home</a></p>
-          <p><a href="src/components/navbar#wcomp">What is Transportation?</a></p>
-          <p><a href="src/components/navbar#winter">What is The Communication?</a></p>
+          <p><a href="src/components/navbar#wcomp">What is Islamic Art?</a></p>
+            <p><a href="src/components/navbar#wrom">What is Roman/Greek Art?</a></p>
+          <p><a href="src/components/navbar#winter">What is Indigenous Art?</a></p>
           <p><a href="src/components/navbar#timeline">Timeline</a></p>
-          <p><a href="src/components/navbar#impacts">Impacts on Society</a></p>
-          <p><a href="src/components/navbar#blog">Library</a></p>
+          <p><a href="src/components/navbar#artifacts">Artifacts</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-menu">

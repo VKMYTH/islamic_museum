@@ -1,22 +1,21 @@
 import React from 'react';
 import Feature from '../../components/feature/Feature';
-import './whatComp.css';
+import './whatIslamic.css';
 
-const WhatComp = () => (
+const WhatIslamic = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wcomp">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is Transportation?" text="Transportation refers to the movement of people, goods, and services from one location to another using various modes of transportation such as cars, trains, airplanes, and ships. Over the past century, transportation technology has transformed the way we travel and expanded our ability to explore the world. Advancements in transportation have also had significant impacts on industries, economies, and the environment." />
+      <Feature title="What is the Islamic Exhibit?" text="The Islamic exhibit offers a circular journey through the cultural and artistic artifacts of Islamic civilization. It showcases a lots of artifacts, from illuminated Qur'anic manuscripts to intricate astrolabes, inviting visitors to explore the rich history of the Islamic world."/>
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p><a href="src/components/navbar#blog">Explore the Library</a></p>
+      <h1 className="gradient__text">The Islamic Exhibit</h1>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Autonomous Vehicles" text="The use of self-driving cars, trucks, and other vehicles, which use sensors and artificial intelligence to navigate roads and highways without human intervention. This technology has the potential to improve road safety, reduce traffic congestion, and enhance mobility for people with disabilities or limited access to public transportation." />
-      <Feature title="Electric Vehicles" text="Vehicles that run on electricity rather than fossil fuels, using batteries and electric motors to power the vehicle. This technology has the potential to reduce carbon emissions and air pollution, as well as lower the cost of vehicle operation and maintenance." />
-      <Feature title="Hyperloop" text="A proposed high-speed transportation system that uses pods or capsules to travel through vacuum-sealed tubes, reaching speeds of up to 700 miles per hour. This technology has the potential to revolutionize long-distance transportation, reducing travel times and increasing accessibility to remote regions." />
+      <Feature title="Historical" text="Visitors can delve into the historical context of Islamic civilization, finding its evolution from the early Islamic period to the peak of its influence during the Islamic Age. The exhibit shows key historical events, such as the spread of Islam and the development of trade networks, providing insight into the shaping of Islamic culture." />
+      <Feature title="Artistic" text="The exhibit also celebrates the exquisite craftsmanship of the Islamic world. Visitors can view the intricately designed ceramic pottery, luster-painted calligraphy, and the geometric patterns of the architecture. These artifacts exemplify the aesthetics and functionality of Islamic art." />
+      <Feature title="Cultural" text="A focus on Islamic culture allows visitors to explore the traditions, languages, and customs that have been habits the Islamic world. Through artifacts like the Manumission document and Tahrir certificate, the exhibit highlights cultural values such as justice and freedom within Islamic societies, shedding light on the social side of these civilizations." />
     </div>
   </div>
 );
 
-export default WhatComp;
+export default WhatIslamic;
