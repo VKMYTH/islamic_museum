@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/islamic_museum.github.io/static/css/main.3b148e50.css",
-    "main.js": "/islamic_museum.github.io/static/js/main.375640e6.js",
-    "static/media/home.png": "/islamic_museum.github.io/static/media/home.f0522c4d84bd6c1243ac.png",
-    "index.html": "/islamic_museum.github.io/index.html",
-    "main.3b148e50.css.map": "/islamic_museum.github.io/static/css/main.3b148e50.css.map",
-    "main.375640e6.js.map": "/islamic_museum.github.io/static/js/main.375640e6.js.map"
+    "main.css": "/islamic_museum/static/css/main.3b148e50.css",
+    "main.js": "/islamic_museum/static/js/main.1ceb7cde.js",
+    "static/media/home.png": "/islamic_museum/static/media/home.f0522c4d84bd6c1243ac.png",
+    "index.html": "/islamic_museum/index.html",
+    "main.3b148e50.css.map": "/islamic_museum/static/css/main.3b148e50.css.map",
+    "main.1ceb7cde.js.map": "/islamic_museum/static/js/main.1ceb7cde.js.map"
   },
   "entrypoints": [
     "static/css/main.3b148e50.css",
-    "static/js/main.375640e6.js"
+    "static/js/main.1ceb7cde.js"
   ]
 }
